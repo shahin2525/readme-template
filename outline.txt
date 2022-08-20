@@ -1,0 +1,16 @@
+1.What & why README.md?
+2.how to make a comment 
+3. normal text & new line 
+4.HoriZontal rule
+Headings 
+6.Paragraph
+7.Italic
+8.Striketgrough
+9.Inline code block
+10.Inline code block
+11. Multiple line code block
+12. List
+13.Link
+14.Image
+15.Emoji
+16.Table
